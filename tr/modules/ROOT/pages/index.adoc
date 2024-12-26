@@ -1,2 +1,9 @@
-= Manual
+= GeoGebra Kullanım Kılavuzu
+:description: GeoGebra Çevrimiçi El Kitabı ve Referans Kılavuzunu keşfedin. Matematik öğrenme ve öğretme deneyiminizi geliştirmenizde her bir GeoGebra komutu ve aracı için adım adım talimatlar ve örnekler sağlayan  ayrıntılı yardım sayfalarına kolayca ulaşın
 :page-en: index
+
+GeoGebra Kullanım Kılavuzuna Hoş Geldiniz.
+
+Bu kılavuz, yazılımda bulunan araçlar ve komutlar için kapsamlı bir kılavuz sağlar. İçinde, araçların ve komutların verimli bir şekilde nasıl kullanılacağına dair örnekler de dahil olmak üzere tüm temel özelliklerin ayrıntılı açıklamalarını bulacaksınız. 
+
+İster yeni başlayan ister ileri düzey bir kullanıcı olun, bu kılavuz, GeoGebra'nın işlevlerinde gezinme ve iş akışlarınızı optimize etme konusunda net bir rehberlik sunarak GeoGebra'nın potansiyelini en üst düzeye çıkarmanıza yardımcı olacaktır.
