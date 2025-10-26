@@ -1,7 +1,7 @@
 = 3D Grafik Görünümü
 ifdef::env-github[:imagesdir: /tr/modules/ROOT/assets/images]
 
-== [#3D_Grafik_Görünümü_Kullanıcı_Ara_Yüzü]####[#3D_Grafik_G.C3.B6r.C3.BCn.C3.BCm.C3.BC_Kullan.C4.B1c.C4.B1_Ara_Y.C3.BCz.C3.BC]##image:24px-Perspectives_algebra_3Dgraphics.svg.png[Perspectives algebra 3Dgraphics.svg,width=24,height=24] 3D Grafik Görünümü Kullanıcı Ara Yüzü##
+== ##image:24px-Perspectives_algebra_3Dgraphics.svg.png[Perspectives algebra 3Dgraphics.svg,width=24,height=24] 3D Grafik Görünümü Kullanıcı Ara Yüzü##
 
 image:16px-Perspectives_algebra_3Dgraphics.svg.png[Perspectives algebra 3Dgraphics.svg,width=16,height=16] _3D Grafik
 Görünümü_ başlangıç ayarı olarak image:16px-Menu_view_algebra.svg.png[Algebra
@@ -42,7 +42,7 @@ image:16px-Perspectives_algebra_3Dgraphics.svg.png[Perspectives algebra 3Dgraphi
 Görünümünü_ özelleştirmek için daha fazla seçenek sunar. Aynı zamanda ihtiyaçlarınıza bağlı olarak GeoGebra kullanıcı
 ara yüz xref:/GeoGebra_5_0_Masaüstü_X_Web_ve_Tablet_Uygulaması.adoc[yerleşimini değiştirebilirsiniz].
 
-== [#Matematiksel_Nesneler_Oluşturma]####[#Matematiksel_Nesneler_Olu.C5.9Fturma]##Matematiksel Nesneler Oluşturma##
+== [Matematiksel_Nesneler_Oluşturma]#Matematiksel Nesneler Oluşturma#
 
 === Fare ile İnşalar
 
@@ -151,7 +151,7 @@ olan piramidi oluşturmak için `++Piramit(A, B, C, D)++` komutunu girin ve [.kc
 
 ====
 
-== [#Matematiksel_Nesneleri_3D_Görünümünde_Taşıma]####[#Matematiksel_Nesneleri_3D_G.C3.B6r.C3.BCn.C3.BCm.C3.BCnde_Ta.C5.9F.C4.B1ma]##Matematiksel Nesneleri 3D Görünümünde Taşıma##
+== [#Matematiksel_Nesneleri_3D_Görünümünde_Taşıma]#Matematiksel Nesneleri 3D Görünümünde Taşıma#
 
 === Taşı Aracı
 
@@ -170,7 +170,7 @@ image:16px-Perspectives_algebra_3Dgraphics.svg.png[Perspectives algebra 3Dgraphi
 Görünümünde_ seçilen bir nesneyi yukarı taşımak için [.kcode]#Page Up# tuşunu ve aşağı taşımak için [.kcode]#Page Down#
 tuşunu kullanabilirsiniz.
 
-== [#Matematiksel_Nesneleri_Gösterme]####[#Matematiksel_Nesneleri_G.C3.B6sterme]##Matematiksel Nesneleri Gösterme##
+== [#Matematiksel_Nesneleri_Gösterme]#Matematiksel Nesneleri Gösterme#
 
 === Koordinat Sisteminin Ötelenmesi
 
